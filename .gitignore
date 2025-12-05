@@ -1,0 +1,18 @@
+# Large checkpoint files
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Virtual environment
+myenv/
+venv/
+.venv/
+
+# Data files (keep if you want)
+data/train.bin
+data/val.bin
